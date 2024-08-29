@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TestTools.CodeCoverage.Sample.Asteroids.Tests", "Unity.TestTools.CodeCoverage.Sample.Asteroids.Tests.csproj", "{A091A75D-E040-0658-8188-73D4D912F5B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TestTools.CodeCoverage.Sample.Asteroids", "Unity.TestTools.CodeCoverage.Sample.Asteroids.csproj", "{7051FE3D-092B-FE53-3536-9C2C28C00F1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.XR.Cardboard", "Google.XR.Cardboard.csproj", "{C16340D1-6C37-0215-0B02-AD58D1E8F496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{74BA1EAB-4BA1-A5F5-411B-CF7AE1BB82DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardboardSamples", "CardboardSamples.csproj", "{E0B216DC-A366-2043-15E3-D5FB7C91642A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.XR.Cardboard.Editor", "Google.XR.Cardboard.Editor.csproj", "{8A75B2E3-B930-DBE4-9D45-DEA2547BC7C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A091A75D-E040-0658-8188-73D4D912F5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A091A75D-E040-0658-8188-73D4D912F5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A091A75D-E040-0658-8188-73D4D912F5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A091A75D-E040-0658-8188-73D4D912F5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7051FE3D-092B-FE53-3536-9C2C28C00F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7051FE3D-092B-FE53-3536-9C2C28C00F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7051FE3D-092B-FE53-3536-9C2C28C00F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7051FE3D-092B-FE53-3536-9C2C28C00F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C16340D1-6C37-0215-0B02-AD58D1E8F496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16340D1-6C37-0215-0B02-AD58D1E8F496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16340D1-6C37-0215-0B02-AD58D1E8F496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16340D1-6C37-0215-0B02-AD58D1E8F496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74BA1EAB-4BA1-A5F5-411B-CF7AE1BB82DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BA1EAB-4BA1-A5F5-411B-CF7AE1BB82DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BA1EAB-4BA1-A5F5-411B-CF7AE1BB82DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BA1EAB-4BA1-A5F5-411B-CF7AE1BB82DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0B216DC-A366-2043-15E3-D5FB7C91642A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B216DC-A366-2043-15E3-D5FB7C91642A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B216DC-A366-2043-15E3-D5FB7C91642A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B216DC-A366-2043-15E3-D5FB7C91642A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A75B2E3-B930-DBE4-9D45-DEA2547BC7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A75B2E3-B930-DBE4-9D45-DEA2547BC7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A75B2E3-B930-DBE4-9D45-DEA2547BC7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A75B2E3-B930-DBE4-9D45-DEA2547BC7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
